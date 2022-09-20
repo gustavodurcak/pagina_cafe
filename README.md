@@ -1,5 +1,5 @@
-# MI PORTFOLIO
-![Imagen del proyecto](https://github.com/gustavodurcak/portfolio/blob/main/imagenes/Captura%20de%20Pantalla%202022-09-19%20a%20la(s)%2019.png))
+# PAGINA DE UN CAFE
+![Imagen del proyecto](https://github.com/gustavodurcak/pagina_cafe/blob/main/img/Captura%20de%20Pantalla%202022-09-20%20a%20la(s)%2010.52.42.png)
 
 
 ## Ejemplo en vivo
@@ -8,7 +8,7 @@
 
 ## Descripción 📑
 
-Este proyecto es mi portfolio personal.
+Pagina de Cafe con HTML,CSS y JS.
 
 
 ## Autor ✒️
