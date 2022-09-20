@@ -16,7 +16,7 @@ Pagina de Cafe con HTML,CSS y JS.
 
 * [durcakg@gmail.com](durcakg@gmail.com)
 * [Mi LinkedIn](https://www.linkedin.com/in/gustavodurcak/)
-* [Mi Porfolio web](https://tu-dominio.com/)
+* [Mi Porfolio web](https://gustavodurcak.github.io/portfolio/)
 
 
 ## Instalación 
