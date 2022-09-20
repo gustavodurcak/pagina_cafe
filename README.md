@@ -3,7 +3,7 @@
 
 
 ## Ejemplo en vivo
-[(https://gustavodurcak.github.io/portfolio/)](https://gustavodurcak.github.io/pagina_cafe/)
+[(https://gustavodurcak.github.io/pagina_cafe/)](https://gustavodurcak.github.io/pagina_cafe/)
 
 
 ## Descripción 📑
